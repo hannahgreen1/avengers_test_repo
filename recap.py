@@ -16,3 +16,4 @@ avengers = {
 }
 print(avengers["ironman"]["moves"]["punch"])
 print(avengers["hulk"]["name"])
+print(avengers)
